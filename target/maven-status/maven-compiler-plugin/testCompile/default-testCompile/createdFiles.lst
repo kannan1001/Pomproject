@@ -1,0 +1,10 @@
+com\testcases\logintestcase.class
+com\testcases\registertestcase.class
+com\testcases\orangehusefndantestcase.class
+com\pages\Facebooklogin.class
+com\testcases\orangehrmlogintestcase.class
+com\pages\OrangehrmLeavedate.class
+com\pages\Facebookregister.class
+com\pages\Orangehrmlogin.class
+com\pages\Orangehusingfindann.class
+com\testcases\orangehrmloginadmintestcase.class

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="18476" started-at="2020-05-14T17:43:33Z" finished-at="2020-05-14T17:43:51Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="18476" started-at="2020-05-14T17:43:33Z" finished-at="2020-05-14T17:43:51Z">
+      <class name="com.testcases.orangehrmloginadmintestcase">
+        <test-method status="PASS" signature="startUp()[pri:0, instance:com.testcases.orangehrmloginadmintestcase@29774679]" name="startUp" is-config="true" duration-ms="14690" started-at="2020-05-14T17:43:33Z" finished-at="2020-05-14T17:43:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUp -->
+        <test-method status="PASS" signature="admintab()[pri:0, instance:com.testcases.orangehrmloginadmintestcase@29774679]" name="admintab" duration-ms="3007" started-at="2020-05-14T17:43:47Z" finished-at="2020-05-14T17:43:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- admintab -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.testcases.orangehrmloginadmintestcase@29774679]" name="close" is-config="true" duration-ms="761" started-at="2020-05-14T17:43:50Z" finished-at="2020-05-14T17:43:51Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.testcases.orangehrmloginadmintestcase -->
+      <class name="com.testcases.orangehrmlogintestcase">
+        <test-method status="PASS" signature="startUp()[pri:0, instance:com.testcases.orangehrmlogintestcase@61832929]" name="startUp" is-config="true" duration-ms="10663" started-at="2020-05-14T17:43:33Z" finished-at="2020-05-14T17:43:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startUp -->
+        <test-method status="PASS" signature="login()[pri:0, instance:com.testcases.orangehrmlogintestcase@61832929]" name="login" duration-ms="1818" started-at="2020-05-14T17:43:43Z" finished-at="2020-05-14T17:43:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="close()[pri:0, instance:com.testcases.orangehrmlogintestcase@61832929]" name="close" is-config="true" duration-ms="2737" started-at="2020-05-14T17:43:45Z" finished-at="2020-05-14T17:43:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- com.testcases.orangehrmlogintestcase -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
